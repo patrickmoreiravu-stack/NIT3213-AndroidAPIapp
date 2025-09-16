@@ -1,4 +1,4 @@
-Android API App
+NIT3213 Android API App
 
 This Android app demonstrates:
 . API integration with vu-nit3213-api
