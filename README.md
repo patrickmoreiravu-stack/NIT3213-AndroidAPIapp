@@ -38,6 +38,6 @@ Teck Stack:
 Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/AndroidAPIApp.git
+   git clone https://github.com/YOUR-USERNAME/NIT3213-AndroidAPIApp.git
 2. Open in Android Studio
 3. Run on an emulator or a device
