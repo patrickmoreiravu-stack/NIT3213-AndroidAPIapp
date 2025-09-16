@@ -1,6 +1,5 @@
 Android API App
 
-Overview
 This Android app demonstrates:
 . API integration with vu-nit3213-api
 . User authentication (Login Screen)
